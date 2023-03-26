@@ -1,0 +1,9 @@
+* references
+** project initiation
+https://qiita.com/yukikurage_2019/items/a2c7b0d1d2c34aee120c#tldr
+
+* instruction
+** to create a final bundle
+$ npm run bundle
+** to hot reload in development
+$ npm run watch
